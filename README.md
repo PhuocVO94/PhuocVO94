@@ -1,17 +1,17 @@
 # Hi there, I'm Vo Huu Phuoc! 👋
 
-🚀 **Java Backend Developer | [cite_start]OOP & RESTful API Specialist** 🧠 Passionate about building scalable systems with a deep interest in Spring Boot and SOLID principles[cite: 8, 9].
+🚀 **Java Backend Developer | OOP & RESTful API Specialist** 🧠 Passionate about building scalable systems with a deep interest in Spring Boot and SOLID principles.
 
 ---
 
 ### 🔥 About Me
 
-* 💻 **Focus:** Building high-quality code and tackling complex backend challenges to grow into a Senior Backend Expert[cite: 10].
-* [cite_start]🎓 **Education:** Pursuing a Bachelor of Information Technology at Ho Chi Minh City University of Technology (2022-2026)[cite: 12, 13, 14].
+* 💻 **Focus:** Building high-quality code and tackling complex backend challenges to grow into a Senior Backend Expert.
+* 🎓 **Education:** Pursuing a Bachelor of Information Technology at Ho Chi Minh City University of Technology (2022-2026).
 * 💼 **Work Experience:**
-    * [cite_start]**Manual Tester at OMNIBOX (2023-2024):** Executed test plans and tracked bugs using Jira for E-learning applications[cite: 46, 47, 48, 50].
-    * **Technical Staff at TELECOM HUNG VIET (2022-2023):** Designed and optimized In-Building Solutions (IBS) for high-traffic buildings like Thong Nhat Hospital[cite: 52, 55, 56].
-* [cite_start]🌐 **Languages:** English[cite: 23].
+    * **Manual Tester at OMNIBOX (2023-2024):** Executed test plans and tracked bugs using Jira for E-learning applications.
+    * **Technical Staff at TELECOM HUNG VIET (2022-2023):** Designed and optimized In-Building Solutions (IBS) for high-traffic buildings like Thong Nhat Hospital.
+🌐 **Languages:** English.
 
 ---
 
