@@ -11,7 +11,7 @@
 * 💼 **Work Experience:**
     * **Manual Tester at OMNIBOX (2023-2024):** Executed test plans and tracked bugs using Jira for E-learning applications.
     * **Technical Staff at TELECOM HUNG VIET (2022-2023):** Designed and optimized In-Building Solutions (IBS) for high-traffic buildings like Thong Nhat Hospital.
-🌐 **Languages:** English.
+*🌐 **Languages:** English.
 
 ---
 
@@ -35,20 +35,20 @@
 ### 💡 Featured Projects
 
 #### 1. Food Ordering Mobile App
-[cite_start]📖 A mobile application allowing users to browse menus, order food, and manage profiles[cite: 25, 27].
-* **Tech:** Flutter, Java, Spring Boot, PostgreSQL[cite: 27].
-* [cite_start]**Highlights:** Implemented Authentication & Authorization using Spring Security and JWT; optimized UI components for better performance[cite: 30, 32].
-* **Link:** [GitHub Repo]
+📖 A mobile application allowing users to browse menus, order food, and manage profiles.
+* **Tech:** Flutter, Java, Spring Boot, PostgreSQL.
+* **Highlights:** Implemented Authentication & Authorization using Spring Security and JWT; optimized UI components for better performance.
+* **Link:** 
 
 #### 2. RESTful API Backend Service
-[cite_start]📖 A scalable Backend system designed following RESTful API standards[cite: 33, 35].
-* **Tech:** Java, Spring Boot, PostgreSQL, Docker[cite: 34].
-* [cite_start]**Highlights:** Integrated Spring Security/JWT for secure access and designed database schemas using JPA/Hibernate[cite: 36, 37].
+📖 A scalable Backend system designed following RESTful API standards.
+* **Tech:** Java, Spring Boot, PostgreSQL, Docker.
+* **Highlights:** Integrated Spring Security/JWT for secure access and designed database schemas using JPA/Hibernate.
 
 #### 3. Automated Testing Framework
-[cite_start]📖 Automation scripts developed to verify critical user flows like registration[cite: 38, 40, 41].
-* **Tech:** Java, Selenium WebDriver, TestNG[cite: 39].
-* [cite_start]**Highlights:** Automated E2E testing scenarios; handled complex UI interactions using JavascriptExecutor[cite: 43, 45].
+📖 Automation scripts developed to verify critical user flows like registration.
+* **Tech:** Java, Selenium WebDriver, TestNG.
+* **Highlights:** Automated E2E testing scenarios; handled complex UI interactions using JavascriptExecutor.
 
 ---
 
