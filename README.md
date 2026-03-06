@@ -11,7 +11,7 @@
 * 💼 **Work Experience:**
     * **Manual Tester at OMNIBOX (2023-2024):** Executed test plans and tracked bugs using Jira for E-learning applications.
     * **Technical Staff at TELECOM HUNG VIET (2022-2023):** Designed and optimized In-Building Solutions (IBS) for high-traffic buildings like Thong Nhat Hospital.
-*🌐 **Languages:** English.
+* 🌐 **Languages:** English.
 
 ---
 
